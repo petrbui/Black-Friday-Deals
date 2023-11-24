@@ -34,8 +34,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [UnderDefense CyberSecurity](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) - 25% off Penetration testing, 24/7 Managed Detection and Response, Managed SIEM (SIEM-as-a-Service) and Incident Response Retainer. 
 
 ## 🎛 Utility Software
-### 💸 [Where To?](https://apps.apple.com/redeem/?ctx=offercodes&id=903955898&code=BLACK) - Discover the best places around you – wherever you are. The basic version is free, use code `BLACK` to get **66% OFF** the first year of Where To? PRO (includes widgets, directions, favorites, augmented reality and more).
-### 💸 [Streets](https://apps.apple.com/app/id1071879826) - The best way to browse, share and organize Street View panoramas on iPhone, iPad, Apple Watch and Mac with Apple Silicon processor. Now **66% OFF**, no code needed.
 ### 💸 [Reporting for RevenueCat](https://apps.apple.com/app/apple-store/id1638185419?pt=118518712&ct=black_friday_2023_github&mt=8) - Reporting for RevenueCat allows you to track your App Store revenue using RevenueCat in a native and great user interface. For iOS, iPadOS and macOS. 50% OFF, no code needed.
 ### 💰 [Lingon X](https://www.peterborgapps.com/lingon/): An easy to use but powerful macOS app to run things automatically. 20% OFF (automatically applied)
 ### 💸 [PastePal](https://onmyway133.com/pastepal/) PastePal is the best universal pasteboard manager for Mac, iPhone and iPad. 50% OFF
@@ -91,7 +89,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [HazeOver](https://hazeover.com) - Highlight the front window by fading out all the background windows to turn distractions down and focus on your current task. (75% OFF).
 ### 💸 [timeMaster.ai](https://www.timemaster.ai/) - Experience a smarter way to manage your time with privacy-first tracking and insightful analytics that empower you to achieve more every day (For macOS). | 40% OFF with code **BF40**
 ### 💸 [Chronos Planner](https://apps.apple.com/us/app/chronos-planner/id1631767524) - Daily planner and task management app for Mac with calendar integration · 50% off
-
+### 💸 [BetterTouchTool]([https://apps.apple.com/us/app/chronos-planner/id1631767524](https://folivora.ai/) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac. 25% off with code **BTT_BLACK_FRIDAY_2023**
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -125,7 +123,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
 ### 💰 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
-### 💰 [Point-Free](https://www.pointfree.co/blog/posts/123-30-off-point-free-for-black-friday) - 30% off. Upgrade your Swift programming skills with advanced, quality videos on architecture, testing, and more.
 
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
